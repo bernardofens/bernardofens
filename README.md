@@ -62,21 +62,6 @@ struct Bernardo: Developer {
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bernardofens&theme=tokyonight&hide_border=true&background=0D1117&stroke=0A84FF&ring=30D158&fire=FF9F0A&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bernardofens&theme=tokyonight&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -121,6 +106,7 @@ struct Bernardo: Developer {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bernardofens&color=0A84FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"Dolor hic tibi proderit olim." — Ovidius*  
+*(This pain will one day serve you well.)*
 
 </div>
