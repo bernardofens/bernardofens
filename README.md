@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:30D158&height=200&section=header&text=Bernardo%20Fensterseifer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%7C%20CS%20Student%20%40%20PUCRS&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:30D158&height=220&section=header&text=Bernardo%20Fensterseifer&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%7C%20CS%20Student%20%40%20PUCRS&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&duration=3000&pause=800&color=0A84FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;iOS+Developer+%40+Apple+Developer+Academy+POA;Computer+Science+%40+PUCRS;Building+beautiful+Swift+experiences+%F0%9F%8D%8E;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&duration=3000&pause=800&color=0A84FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;iOS+Developer+%40+Apple+Developer+Academy+POA;Computer+Science+%40+PUCRS;Building+beautiful+Swift+experiences+%F0%9F%8D%8E;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 ---
 
@@ -22,11 +24,11 @@ struct Bernardo: Developer {
     let academy    = "Apple Developer Academy POA"
     let focus      = ["iOS Development", "Swift", "SwiftUI", "UIKit"]
     let hobbies    = ["Coding", "Design", "Tech", "Coffee ☕"]
-    
+
     var currentlyLearning: [String] {
         ["SwiftUI", "Combine", "CoreData", "Xcode Cloud"]
     }
-    
+
     func contact() -> String { "in/bernardo-fensterseifer-22b973318" }
 }
 ```
@@ -57,11 +59,11 @@ struct Bernardo: Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bernardofens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=30D158&text_color=ffffff&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofens&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bernardofens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=30D158&text_color=ffffff&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofens&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&text_color=ffffff"/>
 
 </div>
-
 
 ---
 
@@ -98,7 +100,7 @@ struct Bernardo: Developer {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30D158,100:0A84FF&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30D158,100:0A84FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -106,7 +108,8 @@ struct Bernardo: Developer {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bernardofens&color=0A84FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"Dolor hic tibi proderit olim." — Ovidius*  
-*(This pain will one day serve you well.)*
+<br/>
+
+*— Dolor hic tibi proderit olim —*
 
 </div>
