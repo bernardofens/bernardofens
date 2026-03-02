@@ -55,18 +55,6 @@ struct Bernardo: Developer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bernardofens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=30D158&text_color=ffffff&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofens&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&text_color=ffffff"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -86,7 +74,7 @@ struct Bernardo: Developer {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-fensterseifer-22b973318)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardofens)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardogarciafen@gmail.com)
 
 </div>
 
@@ -110,6 +98,6 @@ struct Bernardo: Developer {
 
 <br/>
 
-*— Dolor hic tibi proderit olim —*
+*— dolor hic tibi proderit olim —*
 
 </div>
