@@ -29,7 +29,7 @@ struct Bernardo: Developer {
         ["SwiftUI", "Combine", "CoreData", "Xcode Cloud"]
     }
 
-    func contact() -> String { "in/bernardo-fensterseifer-22b973318" }
+    func contact() -> String { "https://www.linkedin.com/in/bernardofens" }
 }
 ```
 
